@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 ### CODE
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -121,7 +122,8 @@ Execute the program
 
 
 </html>
+```
 
 ### OUTPUT
 
-
+![OUTPUT](./Yuvaraj.S%20Timetable.png)
