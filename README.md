@@ -127,3 +127,6 @@ Execute the program
 ### OUTPUT
 
 ![OUTPUT](./Yuvaraj.S%20Timetable.png)
+
+### RESULT
+The output for Timetable Successfull.
